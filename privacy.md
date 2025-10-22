@@ -1,4 +1,4 @@
-# Privacy Policy for KAME's CS2 Discord Bot
+# Privacy Policy for KAME's Discord Bot
 
 Last Updated: October 22, 2025
 
